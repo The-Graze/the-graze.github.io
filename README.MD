@@ -1,9 +1,9 @@
-Static Website Example
+My Static Website
 ----------------------
 
-To be used with Cloud Academy labs.
+YaYa
 
-
+og by html5 guy
 License
 ----------------------
 
